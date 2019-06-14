@@ -222,3 +222,7 @@ ul.alert-dropdown {
 .panel-yellow a:hover {
     color: #df8a13;
 }
+
+.pagination li .active_link{
+    background: #000 !important;
+}

@@ -47,6 +47,9 @@
 
     <script src="https://cdn.ckeditor.com/ckeditor5/12.1.0/classic/ckeditor.js"></script>
 
+     <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
 </head>
 
 <body>
